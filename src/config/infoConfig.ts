@@ -6,9 +6,9 @@ export * from './career'
 export const name = 'Akuma'
 export const headline = 'Student at Kunming University.'
 export const introduction =
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020."
-export const email = 'tong.hu@scls-sh.org'
-export const githubUsername = 'derekhut'
+  "Here's my personal website. I'm a student at Kunming University.I major in Automation but I alse learn about AI and Computer Science."
+export const email = 'wx3515753265@gmail.com'
+export const githubUsername = 'Akuma55532'
 
 // about page
 export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
@@ -33,14 +33,14 @@ export type SocialLinkType = {
 
 export const socialLinks: Array<SocialLinkType> = [
   {
-    name: 'Tiktok',
-    icon: 'tiktok',
-    href: 'https://www.tiktok.com/@harvard?lang=en',
+    name: 'DouYin',
+    icon: 'DouYin',
+    href: 'https://www.douyin.com/',
   },
   {
     name: 'Bilibili',
     icon: 'bilibili',
-    href: 'https://space.bilibili.com/349721082',
+    href: 'https://bilibili.com',
   },
 ]
 
